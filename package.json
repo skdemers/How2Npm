@@ -1,0 +1,15 @@
+{
+  "name": "how2npm",
+  "version": "1.0.0",
+  "description": "My how 2 npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Scott DeMers",
+  "license": "ISC"
+}
