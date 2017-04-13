@@ -11,5 +11,9 @@
     "npm"
   ],
   "author": "Scott DeMers",
-  "license": "ISC"
+  "license": "ISC",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/skdemers/How2Npm"
+  }
 }
